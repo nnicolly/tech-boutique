@@ -39,9 +39,9 @@ Cada camada tem responsabilidades bem definidas e independentes.
 
 #  Modelo UML – Diagrama de Classes
 
-![Diagrama de classes.jpeg](../Diagrama%20de%20classes.jpeg)
----
+![Diagrama de classes](https://github.com/user-attachments/assets/ebe62008-4aa3-4882-8c24-830bf3fb7a4e)
 
+---
 # Dicionário de Dados – Tabela `produto`
 
 | Campo      | Tipo / Tamanho     | Nulo? | Descrição |
